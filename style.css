@@ -387,7 +387,7 @@ h3 { font-size: 1.15rem; margin-bottom: 8px; }
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 80px;
-  align-items: start;
+  align-items: center;
   margin-top: 52px;
 }
 
