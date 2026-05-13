@@ -343,6 +343,15 @@ h3 { font-size: 1.15rem; margin-bottom: 8px; }
   object-fit: contain;
 }
 
+.brand-card__logo--large {
+  height: 120px;
+}
+
+.brand-card__logo--large img {
+  max-height: 108px;
+  max-width: 210px;
+}
+
 .brand-card h3 {
   font-family: 'Inter', sans-serif;
   font-size: 0.85rem;
